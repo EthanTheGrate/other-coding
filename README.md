@@ -1,2 +1,1 @@
-# other-coding
-C++ lol
+c++
